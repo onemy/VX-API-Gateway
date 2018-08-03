@@ -5,4 +5,4 @@ VX-API-Gateway的部分流程与页面设计灵感来自阿里云的API网关<br
 QQ交流群 : 440306757<br/>
 ### JWTTokenPlugin使用说明
 
-[JWTTokenPlugin使用说明]
+[JWTTokenPlugin使用说明](https://github.com/onemy/VX-API-Gateway/blob/master/APIGatewayJWTToken.pdf)
